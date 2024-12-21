@@ -129,6 +129,7 @@
 .recipes__iframe {
   height: 273px;
   width: 480px;
+  border-style: none;
 }
 
 .recipes__video-caption {
