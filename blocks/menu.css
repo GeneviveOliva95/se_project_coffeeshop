@@ -17,6 +17,7 @@
 .menu__subtitle {
   margin: 0 0 100px;
   max-width: 780px;
+  text-align: center;
 }
 
 .menu__cards {
