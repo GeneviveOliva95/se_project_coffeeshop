@@ -42,6 +42,12 @@
 .footer__social-link {
   color: #fff;
   text-decoration: none;
+  transition: opacity 0.3s;
+  cursor: pointer;
+}
+
+.footer__social-link:hover {
+  opacity: 70%;
 }
 
 .footer__copyright {
